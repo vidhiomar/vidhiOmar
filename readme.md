@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=yapari&pause=500&color=16dede&size=35&center=true&vCenter=true&random=false&width=500&lines=Hi+Everyone+!+%F0%9F%91%8B+;+I'm+Vidhi+Omar!;AI%2FML+Engineer+%F0%9F%A4%96;Web+Developer+%F0%9F%9A%80;App+Developer%F0%9F%9A%80" alt="Hello Everyone!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=yapari&pause=500&color=16dede&size=35&center=true&vCenter=true&random=false&width=500&lines=Hi+Everyone+!+%F0%9F%91%8B+;+I'm+Vidhi+Omar!;AI%2FML+Engineer+%F0%9F%A4%96;Web+Developer+%F0%9F%9A%80;" alt="Hello Everyone!" /></a>
 </h1>
 
 <h2>🚀 Languages and Tools I Use</h2>
