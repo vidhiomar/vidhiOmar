@@ -16,17 +16,35 @@
 - ⚡ Love turning ideas into working projects
 
 ---
-
-
 ## 🚀 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,nodejs,express,nextjs" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,html,css,bootstrap,tailwind,nodejs,express,git,opencv&perline=15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/>
 </p>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
@@ -51,7 +69,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" style="filter: drop-shadow(0 0 10px #00ffff);" />
+  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" 
+       style="position: relative; filter: drop-shadow(0 0 12px cyan);" />
 </p>
 
 
