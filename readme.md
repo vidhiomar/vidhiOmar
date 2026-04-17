@@ -57,6 +57,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" alt="snake animation" />
+</p>
 
 
 <p align="center">
