@@ -46,20 +46,14 @@
 
 <p align="center">
   <img height="180" src="https://my-stats-43gk.vercel.app/api?username=vidhiomar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <img height="180" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=vidhiomar&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiomar&theme=radical&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" style="filter: drop-shadow(0 0 10px #00ffff);" />
 </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vidhiomar/vidhiomar/output/snake.svg" alt="snake animation" />
-</p>
 
 
 <p align="center">
